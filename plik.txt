@@ -1,8 +1,2 @@
-<<<<<<< HEAD
 Przykładowa treść
-tu coś pomiędzy
 część dalsza treści
-a tu jeszcze coś
-=======
-Przykładowa treść
->>>>>>> parent of c89113a (dodanie pliku)
