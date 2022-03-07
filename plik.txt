@@ -3,21 +3,14 @@ kolejna dodatkowa linia
 część dalsza treści
 test test admin 123 123 gu9waehgfhaweuigfweagfo zedytował maksymilian gierliński
 coś
-<<<<<<< HEAD
-wersja testowa 0.2 2022 Aleksandra Krawczyk 
-=======
-<<<<<<< HEAD
+wersja testowa 0.2 2022 Aleksandra Krawczyk
 zmiana
-=======
 zmiana kamilchybiak
-=======
 wersja testowa 0.2 2022 Aleksandra Krawczyk 3001 :)
 oliwiakobylanska
 Pozdrawiam serdecznie z rodzinką Johny Ca$h & Karol <3 gg
-gdzie vvvvvvvbvgfcfigxjgxjf,jv
->>>>>>> 3d3cb6e25cc0a5c9781403542913615ca0ca3cb1
+gdzie
 oladerkacz
->>>>>>> 81e96bbd8c1163f5afe27d7dce2996147f4d0647
 eugeniusz_test
 natalka kowalczyk
 część 183 tekstu by Joyek01
