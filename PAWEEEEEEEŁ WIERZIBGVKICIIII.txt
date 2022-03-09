@@ -1,4 +1,4 @@
-Przykładowa treść
+﻿Przykładowa treść
 kolejna dodatkowa linia
 część dalsza treści
 test test admin 123 123 gu9waehgfhaweuigfweagfo zedytował maksymilian gierliński
@@ -18,3 +18,4 @@ Jan kasza na innym koncie....
 Dawid Gadzicki
 Krzysztof Dziadosz 2
 Patryk Nalewajek przybylł
+UUUUUUWAAAA to ja paweł uwu :)
